@@ -1,1 +1,4 @@
-
+Enter minimum password length: 4 
+Enter maximum password length: 6
+Enter character types (1 for lowercase, 2 for uppercase, 3 for numbers, 4 for symbols): 123
+Process finished with exit code 130
